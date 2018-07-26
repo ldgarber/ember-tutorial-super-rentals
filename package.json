@@ -44,5 +44,9 @@
   },
   "engines": {
     "node": "6.* || 8.* || >= 10.*"
+  },
+  "dependencies": {
+    "ember-cli-mirage": "^0.4.7",
+    "ember-cli-tutorial-style": "^2.0.0"
   }
 }
